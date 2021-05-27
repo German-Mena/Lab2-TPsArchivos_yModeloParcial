@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1621294357 source:/home/angel/UTN/LAB2/VideosProject/Videos/Fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621294367 /home/angel/UTN/LAB2/VideosProject/Videos/Fecha.h
+
+1621295760 source:/home/angel/UTN/LAB2/VideosProject/Videos/main.cpp
+	<iostream>
+	"Video.h"
+
+1621295227 /home/angel/UTN/LAB2/VideosProject/Videos/Video.h
+	"Fecha.h"
+
+1621295224 source:/home/angel/UTN/LAB2/VideosProject/Videos/Video.cpp
+	<iostream>
+	<cstring>
+	"Video.h"
+
+1621294357 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621294367 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\fecha.h
+
+1621887453 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Video.h"
+	"funciones.h"
+
+1621887447 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\video.h
+	"Fecha.h"
+
+1621885120 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\video.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Video.h"
+
+1621887453 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\funciones.h
+
+1621887453 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\modelo parcial 1\videos\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	"funciones.h"
+	"Video.h"
+
+1621294357 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621294367 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\fecha.h
+
+1622073715 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Video.h"
+	"funciones.h"
+
+1622073514 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\video.h
+	"Fecha.h"
+
+1622072238 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\funciones.h
+
+1622074224 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\funciones.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	"funciones.h"
+	"Video.h"
+
+1622073538 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\modelo parcial 1\videos\video.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Video.h"
+

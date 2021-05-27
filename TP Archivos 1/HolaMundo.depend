@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1619739899 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1619739899 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\ciudad.h
+
+1619739899 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1619739899 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\pais.h
+
+1621720064 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+
+1621720064 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\funciones.h
+
+1621717488 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\funciones.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+

@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1619739899 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1619739899 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\ciudad.h
+
+1619739899 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1619739899 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\pais.h
+
+1621720064 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+
+1621720064 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\funciones.h
+
+1621717488 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\asd\funciones.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+
+1621816188 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+	<stdlib.h>
+
+1621816146 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\ciudad.h
+
+1621816146 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+	<stdlib.h>
+
+1621812158 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\pais.h
+
+1621816387 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+
+1621818636 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\funciones.h
+	"Pais.h"
+	"Ciudad.h"
+
+1621868984 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\funciones.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+	"Mundo.h"
+
+1621817120 source:c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\mundo.cpp
+	"Mundo.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+	<stdlib.h>
+
+1621817086 c:\users\germa\desktop\tsp\laboratorio de computacion ii - actual\archivos\tp archivos 2\mundo.h
+
